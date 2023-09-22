@@ -1,1 +1,1 @@
-SPM pipline
+Brain masking improvement pipline
