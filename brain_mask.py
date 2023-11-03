@@ -1,4 +1,3 @@
-import os
 import argparse
 from utils.brain_mask import brain_mask_generation
 
