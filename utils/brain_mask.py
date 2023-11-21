@@ -10,7 +10,7 @@ def brain_mask_generation(dir_path):
     c1_path = os.path.join(dir_path, 'c1T2.nii')
     c2_path = os.path.join(dir_path, 'c2T2.nii')
     c3_path = os.path.join(dir_path, 'c3T2.nii')
-
+    # printing infor about files
     print(f"Looking for c1 at {c1_path}")
     print(f"Looking for c2 at {c2_path}")
     print(f"Looking for c3 at {c3_path}")
