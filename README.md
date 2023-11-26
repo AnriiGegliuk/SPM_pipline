@@ -1,7 +1,7 @@
 Brain masking improvement pipline
 
 
-This project is focused on processing and analyzing medical images, primarily those in the .nii (Neuroimaging Informatics Technology Initiative) and .dcm (DICOM) formats.
+This project is focused on processing and analyzing medical images, primarily those in the .nii and .dcm formats.
 
 
 # Main Components:
